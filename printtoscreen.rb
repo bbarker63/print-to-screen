@@ -1,3 +1,10 @@
+
 100.times do |x|
-print x + 1
+	if x == 2
+		puts "mind"
+	else 
+		puts x + 1
+	end
 end
+
+
